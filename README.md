@@ -3,4 +3,4 @@ This is a project that initiates a game to create a new PacMan at a random locat
 
 Licensed by MIT (Emeritus)
 
-To run: go to link: https://raw.githack.com/Aaron-Ganz/pacmen/main/Pacmen.html
+To run: go to link: https://raw.githack.com/Aaron-Ganz/pacmen/main/index.html
